@@ -15,8 +15,8 @@ export const moveObject = (game: Game, MAP_ID: string, xx: number, yy: number) =
     const obj = game.partialMaps[MAP_ID]?.objects?.[x];
     if(obj?.["id"] === wowzaId){
       objectUpdates[x] = {
-        x: xx,
-        y: yy,
+        // x: xx,
+        // y: yy,
         propertiesJson: '{"video": "https://cocoluluk.com/testxr/myStream/playlist.m3u8"}',
         previewMessage: 'xxxx',
         _tags: []
