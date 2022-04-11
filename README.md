@@ -14,9 +14,8 @@
 export const API_KEY = "your-api-key-here";
 ```
 
-replace the `SPACE_ID` and `MAP_ID` in `index.ts` with your own
+4. `SPACE_ID` , `MAP_ID`를 `index.ts`에서 변경
 
-first time: comment in `cleanSlate()` at the bottom of `index.ts` to do the initial map setup, but after that just run `runForest()`
 
 ## running
 
