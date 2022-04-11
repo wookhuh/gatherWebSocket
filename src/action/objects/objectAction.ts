@@ -10,7 +10,6 @@ export const moveObject = (game: Game, MAP_ID: string, xx: number, yy: number) =
     const key = parseInt(_key);
     keysList.push(key);
   }
-
   keysList.forEach((x, idx) => {
     const obj = game.partialMaps[MAP_ID]?.objects?.[x];
     if(obj?.["id"] === wowzaId){
