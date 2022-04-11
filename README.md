@@ -1,6 +1,7 @@
 # XR-Friends (v0.1)
 
 [게더타운 웹소켓 api 문서](https://gathertown.notion.site/Gather-Websocket-API-bf2d5d4526db412590c3579c36141063)!
+[웹소켓 example](https://github.com/wookhuh/gatherWebSocket/blob/main/README.md)
 
 ## setup
 
@@ -16,11 +17,9 @@ export const API_KEY = "your-api-key-here";
 
 4. `SPACE_ID` , `MAP_ID`를 `index.ts`에서 변경
 
-
 ## running
 
 `npm run start`
-
 
 ## References
 
@@ -28,4 +27,3 @@ export const API_KEY = "your-api-key-here";
 * [Gather HTTP API Documentation](https://www.notion.so/Gather-HTTP-API-3bbf6c59325f40aca7ef5ce14c677444)
 * [The Forest API Interaction Example](https://github.com/gathertown/the-forest)
 * [Gather Forum](https://forum.gather.town/c/developers/api-questions/9)
-

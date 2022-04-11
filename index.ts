@@ -4,14 +4,12 @@ import { moveObject } from "./src/action/objects/objectAction"
 import { movePlayer } from "./src/action/players/playerAction"
 import { subscribe } from "./src/events/subscribeToEvent/subscribe"
 global.WebSocket = require("isomorphic-ws");
- 
 
 const SPACE_ID = "eiaW8XJZRtDxsykx\\test";
 const MAP_ID = "empty-room-medium-brick";
 
 const game = new Game(SPACE_ID, () => Promise.resolve({ apiKey: API_KEY }));
-game.connect(); // replace with your spaceId of choice
-// http://gather-game-client-docs.s3-website-us-west-2.amazonaws.com/classes/Game.html
+game.connect(); // webSocket 커넥션
 
 const gatherTownWebSocket = () => {
 	game.subscribeToConnection((connected) => {
@@ -24,7 +22,7 @@ const gatherTownWebSocket = () => {
     const docentId = "u2yLFUeEbmd7kJlRpYv3k4e0C0n2";
 		
 		const holes = [];
-
+		
 		setInterval(() => {
 
 			num = num > 17 ? 1 : num+1;
