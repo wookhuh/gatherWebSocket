@@ -77,15 +77,14 @@ let Squirtle = [
   "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/J1edvVDv9xnvEN7Jnwy9ii",
   "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/oEW3B4ac77eaCCXNU3X2Wc",
 ];
-let xxxx =
+let xxxx = [
   //dont judge my bad pixel art plz
-  [
-    "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/Y5vY4aK8pnt7BeDJtUPWf2",
-    "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/vfiSUqMKhQPqckKCAPiOmo",
-    "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/X1lhPryAcvwegkB5U6TVQ7",
-    "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/l8gT9dqbY6XyY0lL6NleOa",
-    "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/xVYesBO0LGlXo3XE4aJX3J",
-    "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/YQ7hfTqShZLV1TXC3vXGJ8",
-    "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/mQo4E5VgcSQb4cLfANFw8L",
-    "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/He157zYI2tOkS44q1cNrcQ",
+	"https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/Y5vY4aK8pnt7BeDJtUPWf2",
+	"https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/vfiSUqMKhQPqckKCAPiOmo",
+	"https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/X1lhPryAcvwegkB5U6TVQ7",
+	"https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/l8gT9dqbY6XyY0lL6NleOa",
+	"https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/xVYesBO0LGlXo3XE4aJX3J",
+	"https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/YQ7hfTqShZLV1TXC3vXGJ8",
+	"https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/mQo4E5VgcSQb4cLfANFw8L",
+	"https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/UvXBVt6vw9JZoqDn/He157zYI2tOkS44q1cNrcQ",
 ];
