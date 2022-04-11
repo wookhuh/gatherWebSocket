@@ -4,11 +4,11 @@
 
 ## setup
 
-prereq: have NodeJS and npm installed
+1. NodeJS and npm installed
 
-run `npm install`
+2. run `npm install`
 
-put your API key in a file named `api-key.ts` like so:
+3. [API key](https://app.gather.town/apikeys) 발행 , `api-key.ts` 붙여넣기:
 
 ```js
 export const API_KEY = "your-api-key-here";
