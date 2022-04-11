@@ -1,7 +1,6 @@
 # XR-Friends (v0.1)
 
-
-Also a great example of a simple mod built with the [Gather API](https://gathertown.notion.site/Gather-Websocket-API-bf2d5d4526db412590c3579c36141063)!
+[게더타운 웹소켓 api 문서 확인](https://gathertown.notion.site/Gather-Websocket-API-bf2d5d4526db412590c3579c36141063)!
 
 ## setup
 

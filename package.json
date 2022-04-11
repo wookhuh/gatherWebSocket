@@ -1,5 +1,5 @@
 {
-  "name": "the-forest",
+  "name": "the-xr-friends",
   "version": "2.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gathertown/the-forest.git"
+    "url": "git+https://github.com/wookhuh/gatherWebSocket"
   },
-  "author": "npfoss",
+  "author": "wook",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gathertown/the-forest/issues"
   },
-  "homepage": "https://github.com/gathertown/the-forest#readme",
+  "homepage": "https://github.com/wookhuh/gatherWebSocket/blob/main/README.md",
   "dependencies": {
     "@gathertown/gather-game-client": "36.0.3",
     "isomorphic-ws": "^4.0.1",
